@@ -1,5 +1,15 @@
-## Hi there 👋
+## Technologies:
 
+**Frontend**
+React, Next.js, TypeScript
+
+**Backend**
+Nest.js, Node.js (Express), Kafka, Redis, RabbitMQ
+
+**CI/CD**
+Webpack, Vite, Turbopack
+
+**💬** Telegram: **@ch3tt**
 <!--
 **ch3tt/ch3tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
