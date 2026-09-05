@@ -1,26 +1,20 @@
-## Technologies:
+**🛠️ Tech Stack
+Frontend
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
 
-**Frontend**
-React, Next.js, TypeScript
+Backend
+https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
 
-**Backend**
-Nest.js, Node.js (Express), Kafka, Redis, RabbitMQ
+Message Brokers & Cache
+https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
+https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 
-**CI/CD**
-Webpack, Vite, Turbopack
-
-**💬** Telegram: **@ch3tt**
-<!--
-**ch3tt/ch3tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build Tools
+https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=vercel&logoColor=white
